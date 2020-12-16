@@ -1,20 +1,19 @@
 // Questions
 var q = [
-	'What do you understand that others don&#39;t?',
-	'Can you describe your offer?', 
+	'Describe your offer.', 
   	'What are the top 3 benefits?', 
 	'What makes your offer different?', 
  	'Have you attracted other customers in my industry?', 
  	'How do you ensure reliability?', 
- 	'How do you ensure my company&#39;s data is secure?', 
- 	'How does your product integrate with other systems my company uses?', 
+ 	'How do you ensure my data will be secure?', 
+ 	'How does your product integrate with other systems I use?', 
  	'Does the product require user training?', 
   	'How is pricing structured? Are there fees for support or upgrades?', 
   	'Who is your best competitor and why shouldn&#39;t we go with their offer?', 
   	'What have you learned from POCs?', 
   	'What challenges do you have?', 
   	'What are the response times for customer issues or bug fixes?', 
-  	'What new features will you build in the future?', 
+  	'What new features will you build next?', 
   	'How soon can we sign up?', 
 ];
 
